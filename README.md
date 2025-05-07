@@ -1,14 +1,19 @@
 # HR-Attrition-Analysis-
+Hello,
+
 Welcome to my Attrition Analysis Report
 
 This Dataset is provided by IBM
 
-First steps involved loading the dataset \
+Steps 
+ -Loading the dataset 
 
-Used Pandas to check on the dataset attributes (shape,size,info ,checking for null values and duplicates) to further understand the dataset
+ -Used Pandas to check on the dataset attributes (shape,size,info ,checking for null values and duplicates) to further understand the dataset
 
-Laaded the Data to Powe BI to create visualization for Distribution Analysis
+ -Loaded the Data to Powe BI to create visualization for Distribution Analysis
 
+ 
+Visualizations
 1.The first analysis was Demographics
 
 ![Demographics-Analysis](https://github.com/user-attachments/assets/89eafd30-f011-47b3-bb08-c88c8fb04343)
